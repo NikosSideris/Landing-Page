@@ -6,8 +6,8 @@
 
 ## Instructions
 
-The starter project has some HTML and CSS styling to display a static version of the Landing Page project. You'll need to convert this project from a static project to an interactive one. This will require modifying the HTML and CSS files, but primarily the JavaScript file.
+This is a project in the context of the Udacity's Frond-end Developer Nanodegree.
 
-To get started, open `js/app.js` and start building out the app's functionality
+Given a starter project that had some HTML and CSS styling to display a static version of the Landing Page project. 
+Asked to convert this project from a static project to an interactive one, modifying the HTML and CSS files, but primarily the JavaScript file.
 
-For specific, detailed instructions, look at the project instructions in the Udacity Classroom.
